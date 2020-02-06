@@ -1,0 +1,16 @@
+C:\Users\Goffer\source\repos\prostyCRUD\bin\Debug\prostyCRUD.exe.config
+C:\Users\Goffer\source\repos\prostyCRUD\bin\Debug\prostyCRUD.exe
+C:\Users\Goffer\source\repos\prostyCRUD\bin\Debug\prostyCRUD.pdb
+C:\Users\Goffer\source\repos\prostyCRUD\obj\Debug\prostyCRUD.csprojAssemblyReference.cache
+C:\Users\Goffer\source\repos\prostyCRUD\obj\Debug\prostyCRUD.Form1.resources
+C:\Users\Goffer\source\repos\prostyCRUD\obj\Debug\prostyCRUD.Properties.Resources.resources
+C:\Users\Goffer\source\repos\prostyCRUD\obj\Debug\prostyCRUD.csproj.GenerateResource.cache
+C:\Users\Goffer\source\repos\prostyCRUD\obj\Debug\prostyCRUD.exe
+C:\Users\Goffer\source\repos\prostyCRUD\obj\Debug\prostyCRUD.pdb
+C:\Users\Goffer\source\repos\prostyCRUD\bin\Debug\MySql.Data.dll
+C:\Users\Goffer\source\repos\prostyCRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\Goffer\source\repos\prostyCRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Goffer\source\repos\prostyCRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Goffer\source\repos\prostyCRUD\bin\Debug\Renci.SshNet.dll
+C:\Users\Goffer\source\repos\prostyCRUD\bin\Debug\MySql.Data.xml
+C:\Users\Goffer\source\repos\prostyCRUD\obj\Debug\prostyCRUD.csproj.CopyComplete
